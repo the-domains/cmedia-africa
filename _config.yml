@@ -1,7 +1,7 @@
 name: CMEDIA AFRICA
 favicon: null
-layout_spectrum: 0.39479996520094573
-typography_spectrum: 0.15161581034772098
+layout_spectrum: 0.76126
+typography_spectrum: 0.50168
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.6608715106267482
+  brandStrength: 0.6875
   lightness: 0.31423777528107166
   saturation: 0.6449144294019789
   rhythmicContrast: 0.862788429716602
